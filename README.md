@@ -37,7 +37,6 @@ MovieHub fetches movie data from a remote API, manages state efficiently, and de
 - Dependency Injection (Hilt)
 
 
-<img width="400" height="835" alt="image" src="https://github.com/user-attachments/assets/25610554-dd14-49d9-ba6f-11e1ebf9775d" />
 
 <img width="1024" height="1536" alt="flow diagram" src="https://github.com/user-attachments/assets/a925ce66-8b61-44e8-bd54-0df9b68aef50" />
 
@@ -62,6 +61,8 @@ While building MovieHub, I learned to:
 - Write **clean, maintainable Kotlin code**  
 
 ---
+## screenShot
+<img width="400" height="835" alt="image" src="https://github.com/user-attachments/assets/25610554-dd14-49d9-ba6f-11e1ebf9775d" />
 
 ## How to Run
 
